@@ -1,4 +1,4 @@
-# EX.NO: 12 – Drawing Basic Graphical Primitives Using Android Studio
+# EX.NO: 7 – Drawing Basic Graphical Primitives Using Android Studio
 
 ## AIM
 
